@@ -1,5 +1,5 @@
 {
-    "name": "justcommunication/cache-bundle",
+    "name": "justcommunication-ru/cache-bundle",
     "description": "Cache bundle",
     "type": "symfony-bundle",
     "keywords": ["cache","memcache"],

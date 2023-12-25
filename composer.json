@@ -17,7 +17,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url":  "git@github.com:mihaylo47/func-bundle.git"
+            "url":  "git@github.com:JustCommunication-ru/func-bundle.git"
         }
     ],
     "config": {
